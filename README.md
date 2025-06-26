@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/swatirani010602/Cognitive-Situational-Analysis-and-Predictive-System/blob/main/Cognitive_Situational_Analysis_and_predective_system.ipynb)
